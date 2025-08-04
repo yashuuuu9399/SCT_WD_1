@@ -3,7 +3,7 @@
 **PawfectHome** is a responsive, interactive pet adoption landing page created as part of my web development internship at **SkillCraft Technology**. The purpose is to promote pet adoption by showcasing available pets and sharing real-life adoption stories.
 
 ## 🌐 Live Preview
-https://yashuuuu9399.github.io/SCT_WD_1/
+https://github.com/yashuuuu9399/SCT_WD_1.git
 
 ## 📌 Features
 - Responsive layout for all screen sizes
