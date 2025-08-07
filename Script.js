@@ -1,6 +1,10 @@
-const navbar = document.getElementById('navbar');
-const hamburger = document.getElementById('hamburger');
-const nav = document.getElementById('nav');
+const hamburger = document.getElementById("hamburger");
+const navMenu = document.querySelector(".nav ul");
+
+hamburger.addEventListener("click", () => {
+  navMenu.classList.toggle("active");
+});
+
 
 // Scroll background change
 window.addEventListener('scroll', () => {
